@@ -2,7 +2,7 @@
 
 ## Instalación 
 
-```npm install``
+```npm install```
 
 ## Uso
 ```npm start```
